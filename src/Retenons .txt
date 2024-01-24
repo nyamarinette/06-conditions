@@ -1,0 +1,22 @@
+
+->resumé :
+-Dans la condition nous continuons toujours avec quelques opérateurs de comparaison:
+-               == ( égal )
+                === ( égal et de meme type que )
+                != ( different )
+                ! (négation )
+                < ( strictement inférieur )
+                <= ( inferieur ou égal )
+                > ( strictement supérieur )
+                >= ( supérieur ou égal )
+                && ( ET logique )
+                || ( OU logique )
+
+
+Appliquer ceci pour l'envoyer dans le serveur Github:
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nyamarinette/06-conditions.git
+git push -u origin main
